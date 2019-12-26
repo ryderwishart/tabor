@@ -7,14 +7,17 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "CityLight East Church",
     "ctas": [
       {
-        "label": "Read The Blog",
-        "link": "/blog",
+        "label": "Our Meetings",
+        "link": "/meetings",
         "primary": true,
         "arrow": true
+      },
+      {
+        "label": "Our Beliefs",
+        "link": "/beliefs"
       },
       {
         "label": "Contact Us",
@@ -23,8 +26,9 @@
         "primary": false
       }
     ],
-    "image": "../images/cafe-2.jpg",
-    "large": true
+    "image": "../images/winnipeg.jpg",
+    "large": true,
+    "textline": "Light of a New Day in Transcona"
   },
   "displayTitle": false,
   "title": "Home"
