@@ -11,13 +11,13 @@
     "ctas": [
       {
         "label": "Our Services",
-        "link": "/services",
+        "link": "/blog",
         "primary": true,
         "arrow": true
       },
       {
         "label": "Our Beliefs",
-        "link": "/beliefs"
+        "link": "/about"
       },
       {
         "label": "Contact Us",
