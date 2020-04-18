@@ -10,5 +10,8 @@
       "id": "nobody",
       "email": "rodney11@mymts.net"
     }
-  ]
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/authors.json"
+  }
 }
