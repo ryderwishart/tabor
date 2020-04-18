@@ -9,7 +9,7 @@ export const Hero = ({ hero }) => {
     <HeroWrapper>
       <HeroBackground>
         {hero.overlay && <Overlay />}
-        {!!hero.image && hero.image && (
+        {hero.image && (
           <HeroImage fluid={hero.image.childImageSharp.fluid}></HeroImage>
         )}
       </HeroBackground>

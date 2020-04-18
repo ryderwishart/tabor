@@ -1,14 +1,13 @@
 ---
-title: "Parties at Tabor \_\U0001F389"
-path: /blog/introducing-tina-grande
+title: "Birthday Parties at Tabor \_\U0001F389"
+path: /blog/birthday-parties
 date: '2019-11-06T00:00:00.000Z'
 type: post
-authors:
-  - rod-giesbrecht
-  - scott-byrne
 draft: false
+authors: 
+  - nobody
 hero:
-  image: ../images/coffee-beans.jpg
+  image: ../images/winnipeg.jpg
   large: false
   overlay: true
 ---

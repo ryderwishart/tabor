@@ -10,8 +10,8 @@
       "center": true
     },
     {
-      "content": "Coming soon - new site, sorry",
-      "_template": "ContentBlock"
+      "_template": "ContentBlock",
+      "content": "Tabor is part of the CNBC denomination, and ascribes to the [Baptist Faith and Message](http://www.sbc.net/bfm2000/bfm2000.asp) doctrinal statement."
     }
   ],
   "displayTitle": true,

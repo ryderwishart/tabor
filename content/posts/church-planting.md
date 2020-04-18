@@ -1,11 +1,11 @@
 ---
-title: My First Post
-path: /blog/my-first-post
+title: "Church Planting \U0001F331"
+path: /blog/church-planting
 date: '2019-04-04'
 type: post
 authors:
-  - scott-byrne
-draft: true
+  - nobody
+draft: false
 ---
 
 ## Arma dent suarum

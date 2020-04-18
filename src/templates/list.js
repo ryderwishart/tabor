@@ -41,13 +41,7 @@ export default function List({ data, pageContext }) {
                 </h2>
                 <p>{item.node.excerpt}</p>
                 <Meta>
-                  <MetaSpan>{item.node.frontmatter.date}</MetaSpan>
-                  {item.node.frontmatter.authors && (
-                    <MetaSpan>
-                      <em>By</em>&nbsp;
-                      <ListAuthors authorIDs={item.node.frontmatter.authors} />
-                    </MetaSpan>
-                  )}
+                  
                   <MetaActions>
                     <Link to={item.node.frontmatter.path}>Read More →</Link>
                   </MetaActions>
@@ -137,6 +131,7 @@ export const pageQuery = graphql`
 export const ListNav = styled.div`
   display: flex;
   width: 100%;
+  min-height: 40px;
   justify-content: center;
 
   a {

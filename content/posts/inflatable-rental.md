@@ -1,6 +1,6 @@
 ---
-title: Bouncy Castle and Inflatable Rentals
-path: /blog/nostris-blandis
+title: "Bouncy Castle and Inflatable Rentals \U0001F3F0"
+path: /blog/inflatable-rental
 date: '2019-04-06'
 type: post
 draft: false

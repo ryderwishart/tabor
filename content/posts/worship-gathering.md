@@ -1,8 +1,9 @@
 ---
-title: Sunday Service
-path: /blog/artificis-restabat
-date: '2019-03-06'
+title: "Worship Gathering \U0001F3B6"
+path: /blog/worship-gathering
+date: '2020-04-19'
 type: post
+draft: false
 ---
 ## Time: 10 AM every Sunday
 
