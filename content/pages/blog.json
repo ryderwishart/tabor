@@ -1,11 +1,12 @@
 {
   "path": "/blog",
-  "title": "Blog",
+  "title": "Services",
   "pageType": "list",
   "listType": "post",
   "hero": {
-    "image": "../images/",
+    "image": "",
     "large": true,
-    "overlay": true
+    "overlay": true,
+    "ctas": []
   }
 }
