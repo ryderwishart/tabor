@@ -31,7 +31,7 @@ function Post(props) {
     <PageLayout page={page}>
       <Paper>
         <Meta>
-          <MetaSpan>{page.frontmatter.date}</MetaSpan>
+          
           {page.frontmatter.authors && page.frontmatter.authors.length > 0 && (
             <MetaSpan>
               <em>By</em>&nbsp;
@@ -39,7 +39,7 @@ function Post(props) {
             </MetaSpan>
           )}
           <MetaActions>
-            <Link to="/blog">← Back to Blog</Link>
+            <Link to="/blog">← Back to Services</Link>
           </MetaActions>
         </Meta>
         <h1>
@@ -91,11 +91,11 @@ function RemarkForm(props) {
           component: "toggle",
           label: "Draft",
         },
-        {
+        /*{
           label: "Date",
           name: "rawFrontmatter.date",
           component: "date",
-        },
+        },*/
         {
           label: "Hero Image",
           name: "rawFrontmatter.hero.image",

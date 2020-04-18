@@ -23,7 +23,6 @@ export const authorsFragment = graphql`
       email
       name
       id
-      link
     }
   }
 `

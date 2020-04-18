@@ -1,9 +1,10 @@
 ---
-title: "Introducing Tina Grande \_\U0001F389"
+title: "Parties at Tabor \_\U0001F389"
 path: /blog/introducing-tina-grande
 date: '2019-11-06T00:00:00.000Z'
 type: post
 authors:
+  - rod-giesbrecht
   - scott-byrne
 draft: false
 hero:
@@ -11,19 +12,6 @@ hero:
   large: false
   overlay: true
 ---
+**We offer birthday party services at Tabor Baptist Church, including eating area and space for games or inflatable rentals (not included).**
 
-> **Tina Grande** is a Gatsby starter with full TinaCMS integration. You can use Tina to add and remove pages, customize the theme, write content and more!
-
-## Getting Started
-
-```shell-session
-git clone https://github.com/tinacms/tina-starter-grande.git
-
-cd tina-starter-grande
-
-yarn install && gatsby develop
-```
-
-## Contributing
-
-Contribute by reporting bugs, requesting features or submiting improvements! We made this for you and would ❤️ any feedback or contributions to make **Tina Grande** better for everyone.
+Find us on Groupon at: [https://www.groupon.com/deals/tabor-baptist-church](https://www.groupon.com/deals/tabor-baptist-church "https://www.groupon.com/deals/tabor-baptist-church")

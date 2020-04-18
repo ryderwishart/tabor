@@ -1,15 +1,14 @@
 {
   "authors": [
     {
-      "name": "Katie Graham",
-      "id": "katie-graham",
-      "email": "test@test.com"
+      "name": "Rod Giesbrecht",
+      "id": "rod-giesbrecht",
+      "email": "rodney11@mymts.net"
     },
     {
-      "id": "scott-byrne",
-      "name": "Scott Byrne",
-      "email": "scott.byrne@forestry.io",
-      "link": "mailto:scott.byrne@forestry.io"
+      "name": "Nobody",
+      "id": "nobody",
+      "email": "rodney11@mymts.net"
     }
   ]
 }
