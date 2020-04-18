@@ -7,7 +7,7 @@
     }
   ],
   "hero": {
-    "headline": "CityLight East Church",
+    "headline": "Tabor Baptist Church",
     "ctas": [
       {
         "label": "Our Meetings",
@@ -28,7 +28,7 @@
     ],
     "image": "../images/",
     "large": true,
-    "textline": "Light of a New Day in Transcona"
+    "textline": "Headwaters in God's Mighty River"
   },
   "displayTitle": false,
   "title": "Home"
