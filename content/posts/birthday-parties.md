@@ -4,8 +4,6 @@ path: /blog/birthday-parties
 date: '2019-11-06T00:00:00.000Z'
 type: post
 draft: false
-authors: 
-  - nobody
 hero:
   image: ../images/winnipeg.jpg
   large: false

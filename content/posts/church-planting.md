@@ -3,31 +3,21 @@ title: "Church Planting \U0001F331"
 path: /blog/church-planting
 date: '2019-04-04'
 type: post
-authors:
-  - nobody
+authors: []
 draft: false
 ---
+On this earth any healthy living entity will reproduce after it’s kind.  Churches should be no different.  
 
-## Arma dent suarum
+Therefore church planting is not a fad to follow, but a calling for every local church.  
 
-Lorem markdownum, tenet. Haec est cruore contra? Illo qui indutus secutus
-coniuge alebat tibi, mei iussit, excipit; vina. Est **mentisque**. Libys se quod
-sorores arboreis bracchia tauri sua illi sic stantem.
+Tabor planted its first daughter church during pastor Rod’s tenure in Dwarka, India in 2012.  
 
-> Illo latoque haud obruta laceraret pariterque deus stellatus dolori. Agmina
-> ora temptasset, cera Iris ave parvas _quaerenti eburno_ agmen, celerem
-> potestas bracchiaque dare exspirat, quas inpune. Et letalis furibunda,
-> tectoque colebat nunc.
+Since then, we have supported and partnered in church plants to First Nations, Filipinos, Punjabis, university students, Arabic speakers, and multi-cultural audiences. 
 
-## Venus honorem
+Each site is unique, but with the Lord’s blessing, and help from others, we seek to continue in this direction looking at new possibilities each year as the Lord gives opportunity.  
 
-Et in, percussis quoque quoque. Quod quis tempus certe loquuntur est custos,
-omnia petit! Ira omnia, alvum lymphis numina! Isdem quod hostia in cum indigenae
-tenemur urbem sunt, ferus. Gentesque spumeus ubi Glauci.
+Sometimes planters will look to start a new church in an area where other congregations already exist—we have fought against this trend, as simply relocating Christians to a new gathering is not our calling.  
 
-1. Vetus tardae agit plectro Occupat darentque omnem
-2. Oritur sub aliter chori tota adducto verba
-3. Ad prima aurea
-4. Fratribus at fata sitim sua facta notae
-5. Quisquis lustratum suum
-6. Praesens est lecto paratis purpureus precor dum
+Because of this, most plants we participate in are with us for years, or even a decade, as the soil they are planting in will see struggle.  
+
+Praise God for leaders that are willing to accept this challenge.
