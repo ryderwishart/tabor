@@ -22,7 +22,7 @@
     "underline": true
   },
   "hero": {
-    "image": "../images/winnipeg.jpg",
+    "image": "../images/tabor-mural.jpg",
     "large": false,
     "overlay": true,
     "overlap": "8rem",
