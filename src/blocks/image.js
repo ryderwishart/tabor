@@ -23,7 +23,7 @@ export const ImageBlock = {
   name: "image",
   key: "test",
   defaultItem: {
-    image: "",
+    image: {},
   },
   fields: [
     {
