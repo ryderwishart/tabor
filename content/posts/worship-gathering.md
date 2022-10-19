@@ -5,7 +5,7 @@ date: '2020-04-19'
 type: post
 draft: false
 ---
-## Time: 10 AM every Sunday
+## Time: 9 AM every Sunday
 
 Our Sunday morning worship gathering is a time for spiritual refreshing where we pray, sing and study the Bible together.  
 
